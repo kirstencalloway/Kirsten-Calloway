@@ -5,21 +5,16 @@
 
 @import "{{ site.theme }}";
 
-body, p, a, li {
-  font-family: 'Quicksand', sans-serif !important;
-}
-
-h1, h2, h3, h4, h5, h6,
-header h1, header h2,
-#sidebar h1, #sidebar h2,
-.wrapper header h1,
-aside h1, aside h2 {
+h1.header, h1.header a {
   font-family: 'Playfair Display', serif !important;
-  font-weight: 700;
+  font-weight: 700 !important;
 }
 
-header p, header a,
-#sidebar p, #sidebar a,
-aside p, aside a {
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Playfair Display', serif !important;
+  font-weight: 700 !important;
+}
+
+body, p, a, li, p.header, header p, header a {
   font-family: 'Quicksand', sans-serif !important;
 }
