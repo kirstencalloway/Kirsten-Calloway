@@ -1,8 +1,6 @@
 ---
 ---
-
 @import url('https://fonts.googleapis.com/css2?family=Spectral:wght@400;600;700&family=Spectral+SC:wght@300;400;600&family=Karla:wght@300;400;500&display=swap');
-
 @import "{{ site.theme }}";
 
 h1.header, h1.header a {
@@ -15,6 +13,10 @@ h2 {
   font-family: 'Spectral', serif !important;
   font-weight: 700 !important;
   font-size: 32px !important;
+}
+
+section h2 {
+  margin-top: 30px;
 }
 
 h3 {
@@ -58,28 +60,6 @@ section h3 {
   margin-bottom: 10px;
 }
 
-hr {
-  margin-top: 15px;
-  margin-bottom: 15px;
-}
-
-section {
-  padding-top: 20px;
-}
-
-section li strong {
-  font-family: 'Spectral SC', serif !important;
-  font-weight: 400 !important;
-  letter-spacing: 0.02em !important;
-}
-
 section h3 a {
   font-family: 'Spectral SC', serif !important;
-  font-weight: 400 !important;
-  letter-spacing: 0.03em !important;
-  font-size: 16px !important;
-}
-section h3:last-of-type {
-  font-weight: 600 !important;
-  font-size: 18px !important;
-}
+  font-weight: 400 !impor
