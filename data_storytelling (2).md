@@ -1,8 +1,3 @@
----
-layout: default
-title: Data Storytelling
----
-
 # Data Storytelling
 
 ## Where Does Hope Live?
