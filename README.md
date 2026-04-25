@@ -19,5 +19,5 @@ Multiclass classification predicting racial group membership from 24 character s
 ### [Computational Social Justice](social_justice.md)
 Narrative essay connecting statistical and machine learning findings to the systemic erasure of multiracial identity across psychological assessment, clinical algorithms, and AI systems.
 
-### Data Storytelling
-*Coming soon — Flourish interactive storyboard will be embedded here.*
+### [Data Storytelling](data_storytelling.md)
+Interactive Flourish storyboard exploring character strength constellations across racial groups.
